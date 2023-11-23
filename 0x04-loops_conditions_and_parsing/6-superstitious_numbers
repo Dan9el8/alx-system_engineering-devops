@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+#prints china at 4 japan at 9 and 17 at italy
 
 count=1
 

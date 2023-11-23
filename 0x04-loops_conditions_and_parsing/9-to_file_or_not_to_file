@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+#prints school that exists
 
 if [ -e "school" ]
 then

@@ -1,4 +1,5 @@
 #!/usr/bin/bash
+#password pass
 
 while read passwd; do
   echo "$passwd" | cut -d ':' -f1,3,6

@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+#loops from one to ten
 
 while IFS=':' read username password uid gid info home shell; do
   echo "The user $username is part of the $gid gang,"\

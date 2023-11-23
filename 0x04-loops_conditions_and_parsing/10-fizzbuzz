@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+#prints fizzbuzz solutions
 
 for num in {1..100}
 do

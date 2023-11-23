@@ -1,3 +1,4 @@
 #!/usr/bin/env bash
+#print apache password
 
 awk '{print $1 " " $9}' apache-access.log
